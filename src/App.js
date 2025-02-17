@@ -65,7 +65,7 @@ const App = () => {
         <div class="mb-4">
           <i class="fas fa-calendar-alt text-3xl text-gray-500"></i>
         </div>
-        <p class="text-gray-500 text-lg mb-4">ACOMPÁNAME A CELEBRAR EL DÍA</p>
+        <p class="text-gray-500 text-lg mb-4 border-text">ACOMPÁÑAME A CELEBRAR EL DÍA</p>
         <div class="flex justify-center items-center mb-4">
           <div class="text-right ">
             <p class="pr-4 text-date text-xl font-bold">{DIA_FIESTA}</p>
